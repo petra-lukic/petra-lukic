@@ -20,7 +20,7 @@ Design:
 
 Backend: 
 <img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/0e616816-e4fe-40dc-988d-490095b1e7ca" width="40px" height="40px" />
-<img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/ff6edf60-08c9-4d78-a45e-fa7b694d8d79" width="40px" height="40px" />
+<img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/3ba0c6d4-7d3c-4b4d-b105-3d6c8f6e87b5" width="40px" height="40px" />
 
 🌱 Currently Learning: Next.js
 
