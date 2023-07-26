@@ -8,12 +8,21 @@ Hello! 👋 Welcome to my GitHub! I'm Petra Lukic, an engineer with a passion fo
 🔗 My portfolio website: [Portfolio](https://petralukic.com)
 
 💻 Tech Stack:
-Front-end: ![image](https://github.com/petra-lukic/petra-lukic/assets/125557910/a5208e30-3f4f-4a5a-a4b3-e89cb43dd4ff)
- ![image](https://github.com/petra-lukic/petra-lukic/assets/125557910/f933a115-c871-4637-bb41-dc30076a5e75) ![image](https://github.com/petra-lukic/petra-lukic/assets/125557910/82b26376-3d06-48e7-85f2-c3d945eb1971) ![image](https://github.com/petra-lukic/petra-lukic/assets/125557910/fa15b01e-b3c7-495c-a6df-dad8a6e9b441) ![image](https://github.com/petra-lukic/petra-lukic/assets/125557910/ca4b6057-46ce-4eaf-bb39-b92d0b5a6e8b) ![image](https://github.com/petra-lukic/petra-lukic/assets/125557910/18d7bc9f-8dec-445b-be2b-94c148c595d3)
+Front-end: 
+<img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/a5208e30-3f4f-4a5a-a4b3-e89cb43dd4ff" width="20px" height="20px" />
+<img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/f933a115-c871-4637-bb41-dc30076a5e75" width="20px" height="20px" />
+<img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/82b26376-3d06-48e7-85f2-c3d945eb1971" width="20px" height="20px" />
+<img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/fa15b01e-b3c7-495c-a6df-dad8a6e9b441" width="20px" height="20px" />
+<img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/ca4b6057-46ce-4eaf-bb39-b92d0b5a6e8b" width="20px" height="20px" />
+<img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/18d7bc9f-8dec-445b-be2b-94c148c595d3" width="20px" height="20px" />
 
-Design: ![image](https://github.com/petra-lukic/petra-lukic/assets/125557910/cfd33159-9eb2-42ee-93cb-3c0bd39ff848)
+Design: 
+<img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/cfd33159-9eb2-42ee-93cb-3c0bd39ff848" width="20px" height="20px" />
 
-Backend: ![image](https://github.com/petra-lukic/petra-lukic/assets/125557910/0e616816-e4fe-40dc-988d-490095b1e7ca) ![image](https://github.com/petra-lukic/petra-lukic/assets/125557910/ff6edf60-08c9-4d78-a45e-fa7b694d8d79)
+Backend: 
+<img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/0e616816-e4fe-40dc-988d-490095b1e7ca" width="20px" height="20px" />
+<img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/ff6edf60-08c9-4d78-a45e-fa7b694d8d79" width="20px" height="20px" />
+
 
 
 
