@@ -8,7 +8,7 @@ Hello! 👋 Welcome to my GitHub! I'm Petra Lukic, an engineer with a passion fo
 🔗 My portfolio website: [Portfolio](https://petralukic.com)
 
 💻 Tech Stack:
-    Front-end: HTML5   CSS3   JavaScript(ES6+)   React   Sass   TailwindCSS
+    Front-end: ![HTML5](https://imgur.com/O6cKBc5)   CSS3   JavaScript(ES6+)   React   Sass   TailwindCSS
     Design: Adobe XD Figma
     Backend: Python Django
 
