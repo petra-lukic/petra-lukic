@@ -22,7 +22,7 @@ Backend:
 <img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/0e616816-e4fe-40dc-988d-490095b1e7ca" width="40px" height="40px" />
 <img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/3ba0c6d4-7d3c-4b4d-b105-3d6c8f6e87b5" width="40px" height="40px" />
 
-🌱 Currently Learning: Java
+🌱 Currently Learning: Three.js, Node.js
 
 🤝 I'm open to collaborations, so feel free to reach out via email or [LinkedIn](https://www.linkedin.com/in/petralukic/). Let's build something awesome together!
 
