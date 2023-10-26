@@ -1,4 +1,4 @@
-Hello! 👋 Welcome to my GitHub! I'm Petra Lukic, an engineer with a passion for math, engineering, and coding, a passionate front-end developer with a flair for design and a growing interest in backend development.
+Hello! 👋 Welcome to my GitHub! I'm Petra Lukic, an engineer with a passion for math, engineering, and coding, a passionate front-end developer with a growing interest in backend development.
 
 🚀 About Me: While my engineering background forms the foundation of my problem-solving skills, I have found my true calling in front-end development. I love crafting captivating user interfaces and seamless interactions to bring ideas to life.
 
