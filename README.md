@@ -7,6 +7,7 @@ Hello! 👋 Welcome to my GitHub! I'm Petra Lukic, an engineer with a passion fo
 🔗 My portfolio website: [Portfolio](https://petralukic.com)
 
 💻 Tech Stack:
+
 Front-end: 
 <img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/a5208e30-3f4f-4a5a-a4b3-e89cb43dd4ff" width="40px" height="40px" />
 <img src="https://github.com/petra-lukic/petra-lukic/assets/125557910/f933a115-c871-4637-bb41-dc30076a5e75" width="40px" height="40px" />
